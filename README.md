@@ -16,6 +16,6 @@ and edit existing product information.
 
 Tech Stack :
 
-Frontend : React js ,Tailwind css
+Frontend : React js ,Tailwind css  
 Backend : Express Js,Node js, MongoDB
 
